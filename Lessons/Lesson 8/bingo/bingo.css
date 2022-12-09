@@ -1,0 +1,12 @@
+.first{
+    font-style: italic;
+    border-radius: 50% 50% 50%/ 50% 50% 50%;
+    background-color: rgb(247, 193, 204);
+    width: 500px;
+    height: 500px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 125px;
+    font-size: larger;
+    box-shadow: inset 0 0 400px rgb(246, 148, 113), 0 0  400px rgb(113, 113, 250);
+}

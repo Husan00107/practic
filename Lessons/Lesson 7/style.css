@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'NerkoOne';
+    src: url('NerkoOne-Regular.ttf');
+}
+p{
+    font-family: "NerkoOne";
+}
